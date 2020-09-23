@@ -42,10 +42,14 @@
 ![](./images/delivery_tracking.gif)
 
 
-## Contribution
-- @Jisu5
-- @tlagyqls7
-- @jinpig2127
-- @wong_303
+## 🧒Author👧
+### 👤 Jisu, Oh
+- Github: [@Jisu5](https://github.com/Jisu5)
+### 👤 Hyobin, Shim
+- GitLab: [@tlagyqls7](https://lab.ssafy.com/tlagyqls7)
+### 👤 Seul-gi, Jin
+- GitLab: [@jinpig2127](https://lab.ssafy.com/jinpig2127)
+### 👤 Ji-eun, Park
+- GitLab: [@wong_303](https://lab.ssafy.com/wong_303)
 
 
