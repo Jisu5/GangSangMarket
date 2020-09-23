@@ -9,6 +9,7 @@
 - Flask `1.1.2`
 - Open CV `3.4.10`
 - KoNLPy `0.5.2`
+- Oauth 2.0
 ### Frontend
 - Vue `2.6.11`
 - Vuex `3.5.1`
@@ -16,18 +17,36 @@
 - vue-axios `2.1.5`
 - vue-infinite-loading `2.4.5`
 - vuetify `2.3.5`
+- Oauth 2.0
 ### Database
-- MySQL `14.14`
+- mariaDB `10.5.3`
 - Docker  `19.3.8`
 ### Deployment
 - NGINX
 - AWS EC2
 
+
+
 ## ERD
+
 ![](./images/ERD_200722.png)
 
 
+
+## System Structure
+
+### MSA
+
+![](./images/system_structure1.png)
+
+### Open CV
+
+![](./images/system_structure2.png)
+
+
+
 ## 👏Overview
+
 ### Social Login
 ![](./images/social_login.gif)
 ### Writing Post by OpenCV
