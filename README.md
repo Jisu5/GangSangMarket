@@ -43,13 +43,13 @@
 
 
 ## 🧒Author👧
-👤 Jisu, Oh
+### 👤 Jisu, Oh
 - Github: [@Jisu5](https://github.com/Jisu5)
-👤 Hyobin, Shim
+### 👤 Hyobin, Shim
 - GitLab: [@tlagyqls7](https://lab.ssafy.com/tlagyqls7)
-👤 Seul-gi, Jin
+### 👤 Seul-gi, Jin
 - GitLab: [@jinpig2127](https://lab.ssafy.com/jinpig2127)
-👤 Ji-eun, Park
+### 👤 Ji-eun, Park
 - GitLab: [@wong_303](https://lab.ssafy.com/wong_303)
 
 
